@@ -1,0 +1,6 @@
+test =1
+def swap_case(s):
+return s.swapcase()
+test=2
+a=sorted(set(arr),reverse=True)
+    print(a[1])
